@@ -1,6 +1,6 @@
 # IT-C101-Website
 
-**About your project - test**
+**About your project**
 
 For your semester project you (with your partner) will be putting together a website. It must
 meet all of the minimum requirements listed below to receive full credit. The entire project is worth
