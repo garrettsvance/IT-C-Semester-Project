@@ -38,6 +38,37 @@
 
 
         <main class="container-fluid">
+            <a href="https://docs.google.com/document/d/1PWnEpGBZ6wjvEvhbGr0ymlZsJcj0mQ0n/edit?usp=sharing&ouid=113183173911031324223&rtpof=true&sd=true" target="_blank" style="color: #000000;">See Project Requirements</a>
+            <main class="container-fluid">
+                <h3>Simple Loop Example</h3>
+                
+                <div id="result"></div>
+                
+                <button onclick="startLoop()">Loop</button>
+                <button onclick="endLoop()">End</button>
+            </main>
+        
+            <script>
+                let loopInterval;
+                let numberToMultiply = 1;
+        
+                function startLoop() {
+                    // Clear any existing interval to avoid overlapping
+                    clearInterval(loopInterval);
+        
+                    // Start a new interval to multiply the number by two each second
+                    loopInterval = setInterval(function() {
+                        numberToMultiply *= 2;
+                        document.getElementById("result").innerHTML = `Current Result: ${numberToMultiply}`;
+                    }, 1000);
+                }
+        
+                function endLoop() {
+                    // Clear the interval to stop the loop
+                    clearInterval(loopInterval);
+                    document.getElementById("result").innerHTML = "Loop Ended";
+                }
+            </script>
         </main>
 
         <footer class="bg-dark text-dark text-muted">

@@ -30,4 +30,9 @@ menu {
 
 .logo {
     margin-left: 0.3em;
+
+}
+
+.special_link {
+    font-family: sans-serif !important;
 }

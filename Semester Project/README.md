@@ -29,32 +29,32 @@ meet those needs.
 
 **Minimum Requirements**
 
-1. At least 5 total web pages, all of which are linked to each other.
+1. At least 5 total web pages, all of which are linked to each other. - **done**
 2. At least 5 hyperlinked files, including each of the following: a word-processing file, a
 spreadsheet, a pdf file, a graphics file (such as jpg, gif, or png), and a program file (such as
 JavaScript, Perl, VisualBasic, C++, or Python), and a video file (such as mpg, mov, avi, wmv).
-  * Word-Processing File
-  * Spreadsheet
-  * pdf
-  * graphics file
-  * program file
-  * video file
-3. At least one radio button or picture with hyperlinked functionality.
-4. At least two external hyperlinked URLs.
-5. At least one iteration loop (such as “for” or “while”) using JavaScript.
+  * Word-Processing File - **done**
+  * Spreadsheet - **done**
+  * pdf - **done**
+  * graphics file - **done**
+  * program file - **done**
+  * video file - **done**
+3. At least one radio button or picture with hyperlinked functionality. - **done**
+4. At least two external hyperlinked URLs. - **done**
+5. At least one iteration loop (such as “for” or “while”) using JavaScript. - **done**
 6. At least one use of an ordered or unordered list.
-7. Use of at least 2 different fonts.
-8. Use of at least 2 different font sizes.
+7. Use of at least 2 different fonts. - **done**
+8. Use of at least 2 different font sizes. - **done**
 9. Use of three font emphases: italicized, underlined, and bold.
-  * italicized
-  * underlined
-  * bold
-10. Use of at least 2 font colors.
-11. Use of at least one table.
-12. An appropriate background picture.
-13. Appropriate layout, coloring, styling, and usability.
-14. Use of at least 2 anchor tags.
-15. Use of at least one email tag.
+  * italicized - **done**
+  * underlined - **done**
+  * bold - **done**
+10. Use of at least 2 font colors. - **done**
+11. Use of at least one table. - **done**
+12. An appropriate background picture. - **done**
+13. Appropriate layout, coloring, styling, and usability. - **done**
+14. Use of at least 2 anchor tags. - **done** 
+15. Use of at least one email tag. - **done**
 
 **Extra Credit**
 
