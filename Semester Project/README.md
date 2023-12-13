@@ -42,7 +42,7 @@ JavaScript, Perl, VisualBasic, C++, or Python), and a video file (such as mpg, m
 3. At least one radio button or picture with hyperlinked functionality. - **done**
 4. At least two external hyperlinked URLs. - **done**
 5. At least one iteration loop (such as “for” or “while”) using JavaScript. - **done**
-6. At least one use of an ordered or unordered list.
+6. At least one use of an ordered or unordered list. - **done**
 7. Use of at least 2 different fonts. - **done**
 8. Use of at least 2 different font sizes. - **done**
 9. Use of three font emphases: italicized, underlined, and bold.
